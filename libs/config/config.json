@@ -5,7 +5,7 @@
 	},
 	"mongoose": {
 		"uri-local": "mongodb://localhost:27017",
-		"uri": "mongodb://admin:Ytrew0@ds0168.mlab.com:16148/booking",
+		"uri": "mongodb://admin:w0@ds08.mlab.com:16148/booking",
 		"options": {
 			"useNewUrlParser": true
 		}
