@@ -1,0 +1,31 @@
+{
+	"server": {
+		"port": 80,
+		"host": "127.0.0.1"
+	},
+	"mongoose": {
+		"uri-local": "mongodb://localhost:27017",
+		"uri": "mongodb://admin:Ytrew0@ds0168.mlab.com:16148/booking",
+		"options": {
+			"useNewUrlParser": true
+		}
+	},
+	"session": {
+		"secret": "tvtkmzyjd",
+		"key": "sid",
+		"resave": false,
+		"saveUninitialized": false,
+		"cookie": {
+			"secure": false,
+			"path": "/",
+			"httpOnly": true,
+			"maxAge": null
+		}
+	},
+	"db": {
+		"prefix": "db_"
+	},
+	"site": {
+		"elementsInSearchPage": 25
+	}
+}

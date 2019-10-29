@@ -1,0 +1,16 @@
+.vscode/
+node_modules/
+yarn.lock
+package-lock.json
+error.log
+error1.log
+error2.log
+error3.log
+error4.log
+error5.log
+debug.log
+debug1.log
+debug2.log
+debug3.log
+debug4.log
+debug5.log
